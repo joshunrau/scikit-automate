@@ -2,6 +2,8 @@
 
 ## About
 
+An extension of scikit-learn, scikit-automate leverages the scikit-optimize package to implement Bayesian optimization in custom estimators. 
+
 ## Installation
 
 ## Usage
